@@ -1,0 +1,27 @@
+{
+  "name": "gbook-plugin-pagefooter",
+  "version": "1.0.0",
+  "description": "GBook插件-页脚",
+  "main": "index.js",
+  "engines": {
+    "gbook": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/54dxs/gbook-plugin-pagefooter.git"
+  },
+  "keywords": [
+    "页脚",
+    "gbook",
+    "gbook插件"
+  ],
+  "author": "深情小建",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/54dxs/gbook-plugin-pagefooter/issues"
+  },
+  "homepage": "https://github.com/54dxs/gbook-plugin-pagefooter#readme"
+}
